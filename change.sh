@@ -1,0 +1,1 @@
+python3 '/home/matheus/Área de Trabalho/git/bg/rodai.py' "$1"
